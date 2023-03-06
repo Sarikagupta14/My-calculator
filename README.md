@@ -1,7 +1,7 @@
 # My-calculator
 
-A Digital Calculator designed from scratch with HTML, CSS and  JAVASCRIPT perfectly functioning.
-This will be a very simple calculator running on any browser.
+A Scientific Calculator designed from scratch using HTML, CSS and  JS with proper functionalities.
+
 
 Check it here- https://sarika-my-calculator.netlify.app/
 
